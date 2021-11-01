@@ -1,0 +1,14 @@
+.section{
+    background: rgb(255,131,0);
+background: linear-gradient(90deg, rgba(255,131,0,1) 7%, rgba(255,73,0,1) 16%, rgba(255,131,0,1) 37%, rgba(255,73,0,1) 58%, rgba(255,131,0,1) 72%, rgba(255,104,0,1) 86%, rgba(255,131,0,1) 95%);
+}
+.header{
+    background: rgba(255, 132, );
+    opacity: 0.5;
+background: linear-gradient(90deg, rgba(255,131,0,1) 7%, rgba(255,73,0,1) 16%, rgba(255,131,0,1) 37%, rgba(255,73,0,1) 58%, rgba(255,131,0,1) 72%, rgba(255,104,0,1) 86%, rgba(255,131,0,1) 95%);
+}
+.footer{
+    background: rgba(255, 132, );
+    opacity: 0.5;
+background: linear-gradient(90deg, rgba(255,131,0,1) 7%, rgba(255,73,0,1) 16%, rgba(255,131,0,1) 37%, rgba(255,73,0,1) 58%, rgba(255,131,0,1) 72%, rgba(255,104,0,1) 86%, rgba(255,131,0,1) 95%);
+}
